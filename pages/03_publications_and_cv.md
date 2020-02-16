@@ -5,10 +5,13 @@ feature-img: "assets/img/design/publications.gif"
 permalink: /publications_cv/
 ---
 
-<h3>CV</h3>
+
+### CV
 You can find an updated CV in pdf format [here](../assets/pdfs/Ramirez-SanJuanGuillermina_CV.pdf){:target="_blank"}.
 
-<h3>Publications</h3>
+### Publications
+ - **Ramírez-San Juan G.R.**, Mathijssen A.J.T.M., He M., Jan L., Marshall W., and Prakash M. (2019) Multi-scale spatial heterogeneity enhances particle clearance in airway ciliary arrays. bioRxiv. [<i class="ai ai-biorxiv ai-1x theme-color"></i>](https://www.biorxiv.org/content/10.1101/665125v1){:target="_blank"}
+
  - Oakes P.W., Bidone T.C., Beckham Y., Skeeters A.V., **Ramírez-San Juan G.R.**, Winter S.P., Voth G.A., and Gardel M.L. (2018) Lamellipodium is a myosin-independent mechanosensor. *Proceedings of the National Academy of Sciences*, 115(11):2646–2651. [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1073/pnas.1715869115){:target="_blank"}
 
  - Fessenden T.B., Beckham Y., Perez-Neut M., **Ramírez-San Juan G.R.**, Chourasia A.H., MacCleod K.F., Oakes P.W., and Gardel M.L. (2018) Dia1-dependent adhesions are required by epithelial tissues to initiate invasion. *The Journal of Cell Biology*, 217(4):1–18. [<i class="ai ai-doi ai-1x theme-color"></i>](https://doi.org/10.1083/jcb.201703145){:target="_blank"}
