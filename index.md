@@ -10,7 +10,7 @@ Self-organization is fundamentally a multi-scale problem given that molecular in
 
 To understand how complex tissue behaviors emerge from molecular mechanisms my research merges molecular, cell and developmental biology with the frameworks of fluid mechanics and active matter. 
 
-I am interested in understanding self-organization in the context of flow generation by ciliary arrays. I use a variety of multiciliated model organisms to elucidate the two-way link between ciliary activity and flow properties. To learn more about my research you can click here.
+I am interested in understanding self-organization in the context of flow generation by ciliary arrays. I use a variety of multiciliated model organisms to elucidate the two-way link between ciliary activity and flow properties. 
 
 To learn more about my research you can click [here](/research/).
 
